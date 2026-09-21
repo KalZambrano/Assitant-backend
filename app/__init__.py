@@ -1,0 +1,1 @@
+"""UTP Assistant backend application."""
